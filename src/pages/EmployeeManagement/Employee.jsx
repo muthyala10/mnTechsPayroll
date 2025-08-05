@@ -122,7 +122,7 @@ const Employee = () => {
           </div>
           <button className="flex items-center space-x-2 px-6 py-3 bg-white/50 border border-gray-200 rounded-xl hover:bg-white/70 transition">
             <Filter size={20} />
-            <span>Filters</span>
+            <span>I'm Done</span>
           </button>
         </div>
       </div>
